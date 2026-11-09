@@ -1,0 +1,10 @@
+{
+  "description": "Fully functional responsive website built from Figma design with navigation menus, image sliders, popups, and mobile hamburger navigation across desktop, tablet, and mobile devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
